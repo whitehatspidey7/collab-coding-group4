@@ -10,6 +10,6 @@ Each team member contributes a unique function based on a common theme (Math Uti
 The final driver program integrates all functions and demonstrates version control, branching, pull requests, and teamwork.
 
 ## 👥 Team Members
-- Admin/Integrator: Member A (also contributes a function)
-- Contributor 1: Member B
-- Contributor 2: Member C
+- Admin/Integrator: NIKHILESH (also contributes a function)
+- Contributor 1: UDAY KIRAN
+- Contributor 2: SHRI HARSHA
