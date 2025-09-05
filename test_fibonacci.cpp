@@ -1,9 +1,11 @@
 #include <iostream>
 using namespace std;
 
+//function declaration
 int fibonacci(int n);
 
 int main() {
+    //Testing the fibonacci function
     cout << "Testing Fibonacci Function" << endl;
     
     cout << "fibonacci(0) = " << fibonacci(0) << " (Expected: 0)" << endl;
