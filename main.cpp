@@ -42,8 +42,7 @@ int fibonacci(int n) {
     if (n <= 0) return 0;
     if (n == 1) return 1;
     return fibonacci(n - 1) + fibonacci(n - 2);
-=======
-
+}
 
 int main() {
     cout << "Driver Program - Math Utilities" << endl;
@@ -58,7 +57,7 @@ int main() {
     cout << "Is 13 prime? " << (isPrime(13) ? "Yes" : "No") << endl;
 
     // Fibonacci Demo (Uday’s function)
-    // cout << "Fibonacci(7): " << fibonacci(7) << endl;
+    cout << "Fibonacci(7): " << fibonacci(7) << endl;
 
     return 0;
 //>>>>>>> main
