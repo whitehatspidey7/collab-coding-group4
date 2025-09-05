@@ -1,3 +1,4 @@
+
 #include <iostream>
 using namespace std;
 
@@ -18,7 +19,7 @@ long long factorial(int n) {
 // ====================================
 // TODO: Implement prime check function here
 // bool isPrime(int n) { ... }
-
+//<<<harsha branch
 bool isPrime(int n) {
     if (n <= 1) return false;          // 0 and 1 are not prime
     if (n <= 3) return true;           // 2 and 3 are prime
